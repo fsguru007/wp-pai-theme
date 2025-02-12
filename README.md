@@ -1,2 +1,2 @@
 ## wp-pai-theme
-PAI Wordpress Starter Theme
+Customizable Wordpress Starter Theme
